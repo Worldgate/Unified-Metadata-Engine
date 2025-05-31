@@ -60,3 +60,6 @@ Have skills in multimedia, scripting, JSON, CLI tools, ffmpeg, or UX? Join in! I
 
 ## 📬 Contact
 WIP — stay tuned for links to Discord/GitHub Discussions/Matrix etc.
+
+## ChatGPT
+Currently using the assistance of ChatGPT to put together my ideas and my brain works differently than everyone else and I have a hard time focusing.
