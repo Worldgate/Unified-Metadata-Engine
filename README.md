@@ -44,12 +44,6 @@ To create a metadata indexing and distribution engine that:
 ## 🛠️ Getting Started (Coming Soon)
 
 ```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/unified-metadata-engine.git
-cd unified-metadata-engine
-
-# Index a file (example command format)
-ume index /path/to/file.mkv
 ```
 
 ---
